@@ -1,0 +1,165 @@
+body {
+  font-family: "Iosevka Term";
+  font-weight: lighter;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: lighter;
+  margin: 0;
+  margin-bottom: 3px;
+}
+
+h1 {
+  font-size: 42pt;
+}
+
+h2 {
+  font-size: 38pt;
+}
+
+h3 {
+  font-size: 28pt;
+}
+
+h4 {
+  font-size: 18pt;
+}
+
+h5 {
+  font-size: 14pt;
+}
+
+.creamsody-swatch {
+  width: 128px;
+  height: 128px;
+  font-size: 10pt;
+  float: left;
+  margin: 1px 1px 0 0;
+}
+
+.creamsody-turquoise4-xterm {
+  position: relative;
+  color: #000000;
+  background-color: #5fafaf;
+  height: 120px;
+}
+.creamsody-turquoise4-xterm .xterm {
+  position: absolute;
+  width: 112px;
+  top: -16px;
+  right: 0px;
+  padding: 3px;
+  transform-origin: right bottom;
+  transform: rotate(270deg);
+  text-alignment: right;
+  font-size: 7pt;
+}
+.creamsody-turquoise4-xterm .content {
+  position: absolute;
+  top: 5px;
+  left: 8px;
+  font-size: 10pt;
+}
+.creamsody-turquoise4-xterm .color-label {
+  position: absolute;
+  bottom: 5px;
+  left: 8px;
+  font-size: 14pt;
+}
+
+.creamsody-turquoise4-xterm-after {
+  height: 8px;
+  width: 128px;
+  background-color: #468b8b;
+}
+
+.creamsody-bright_blue {
+  position: relative;
+  color: #FFFFFF;
+  background-color: #419bb0;
+  height: 120px;
+}
+.creamsody-bright_blue .xterm {
+  position: absolute;
+  width: 112px;
+  top: -16px;
+  right: 0px;
+  padding: 3px;
+  transform-origin: right bottom;
+  transform: rotate(270deg);
+  text-alignment: right;
+  font-size: 7pt;
+}
+.creamsody-bright_blue .content {
+  position: absolute;
+  top: 5px;
+  left: 8px;
+  font-size: 10pt;
+}
+.creamsody-bright_blue .color-label {
+  position: absolute;
+  bottom: 5px;
+  left: 8px;
+  font-size: 14pt;
+}
+
+.creamsody-bright_blue-after {
+  height: 8px;
+  width: 128px;
+  background-color: #307483;
+}
+
+.creamsody-neutral_blue {
+  position: relative;
+  color: #FFFFFF;
+  background-color: #499cb0;
+  height: 120px;
+}
+.creamsody-neutral_blue .xterm {
+  position: absolute;
+  width: 112px;
+  top: -16px;
+  right: 0px;
+  padding: 3px;
+  transform-origin: right bottom;
+  transform: rotate(270deg);
+  text-alignment: right;
+  font-size: 7pt;
+}
+.creamsody-neutral_blue .content {
+  position: absolute;
+  top: 5px;
+  left: 8px;
+  font-size: 10pt;
+}
+.creamsody-neutral_blue .color-label {
+  position: absolute;
+  bottom: 5px;
+  left: 8px;
+  font-size: 14pt;
+}
+
+.creamsody-neutral_blue-after {
+  height: 8px;
+  width: 128px;
+  background-color: #377685;
+}
+
+.separator {
+  clear: left;
+  height: 0px;
+  width: 100%;
+}
+
+.group-separator {
+  clear: left;
+  height: 10px;
+  width: 100%;
+  border-bottom-color: rgba(0, 0, 0, 0.1);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=creamsody-theme-colors.css.map */

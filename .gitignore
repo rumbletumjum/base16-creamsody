@@ -1,0 +1,6 @@
+*.lock
+.DS_Store
+node_modules
+.sass-cache
+.stylelintrc.json
+package-lock.json
